@@ -45,13 +45,13 @@ flowchart LR
 
 Registre seu plano aqui antes de editar o código.
 
-- Decisão da camada de apresentação:
-- Decisão da camada de lógica:
-- Decisão da camada de dados:
-- Abordagem para registro de atividades:
-- Abordagem para gerenciamento de equipes:
-- Abordagem para o placar:
-- Abordagem para sugestões de treino:
+- Decisão da camada de apresentação: realiza teste na camada de apresentação
+- Decisão da camada de lógica: realiza teste na camada de lógica
+- Decisão da camada de dados: realiza teste na camada de dados
+- Abordagem para registro de atividades: reliza teste no registro de atividades
+- Abordagem para gerenciamento de equipes: realiza teste no gerenciamento de equipe
+- Abordagem para o placar: realiza testes no placar
+- Abordagem para sugestões de treino: realiza teste como exercicio
 
 Baseie as decisões nos contratos de arquitetura e nos testes analisados. Escreva uma decisão concreta e coerente para cada campo, com pelo menos nove caracteres após os dois-pontos. Preserve o restante do documento. Não altere código, testes nem outros arquivos e não faça commit.
 
