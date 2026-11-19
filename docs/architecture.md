@@ -53,6 +53,8 @@ Registre seu plano aqui antes de editar o código.
 - Abordagem para o placar:
 - Abordagem para sugestões de treino:
 
+Baseie as decisões nos contratos de arquitetura e nos testes analisados. Escreva uma decisão concreta e coerente para cada campo, com pelo menos nove caracteres após os dois-pontos. Preserve o restante do documento. Não altere código, testes nem outros arquivos e não faça commit.
+
 ## Plano de testes
 
 Registre os comandos executados e o significado de cada falha.
